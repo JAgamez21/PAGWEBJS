@@ -40,7 +40,7 @@ function formlogin(e) {
   }
 
   if (login) {
-    location.href = 'PAGWEBJS/../index.html'
+    location.href = 'PAGWEBJS/index.html'
   } else {
     alert('User/password incorrect')
   }
